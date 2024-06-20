@@ -1,4 +1,4 @@
-* This is a story app with developed by Flutter. 
+* This is a story app developed with Flutter. 
 * It creates horror stories using Gemini API.
 * To learn how to develop Flutter app with using Gemini, you can read my article: 
 
