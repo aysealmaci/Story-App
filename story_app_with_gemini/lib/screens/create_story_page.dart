@@ -58,7 +58,6 @@ class _TextToItineraryState extends State<StatefulWidget> {
     setState(() {
       _isGenerating = true;
       _generatedItinerary = ""; // Clear previous results
-
     });
 
     final storyGenerator = StoryGenerator();
